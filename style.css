@@ -1,0 +1,45 @@
+logo {
+    height: auto;
+    width: 50%;
+    max-width: 100%;
+}
+
+h2 {
+    padding-top: 1%;
+    padding-bottom: 4%;
+}
+
+h3 {
+    padding-top: 2%;
+    padding-bottom: 3%;
+    color: black;
+    font-family:sans-serif;
+}
+
+h4 {
+    color: gray
+}
+
+h5 {
+    color: green;
+}
+
+.link-text {
+    color: gray;
+}
+
+hr.style5 {
+    border-color: darkgray;
+    border-width:medium;
+    margin-top: 1%
+}
+
+hr.style6 {
+    border-color: darkgray;
+    border-width:thin;
+    margin-bottom: 3%;
+}
+
+footer {
+    padding-bottom: 5%;
+}
