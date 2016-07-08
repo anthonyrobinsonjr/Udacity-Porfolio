@@ -2,18 +2,9 @@
 
 This is a portfolio project for Udacity's full-stack nanodegree program. Using html, css and bootstrap, the goal of this project was to create a portfolio webpage utilizing a design mockup.
 
-Table of contents
-
-Demo
-Download
-Quick start
-Copyright and license
-
 For a demo, check out http://arobportfolio.esy.es/!
 
-Download
-
-The files for the project, may be downloaded here.
+The files for the project may be downloaded at .
 
 Quick Start
 
