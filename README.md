@@ -8,7 +8,6 @@ Demo
 Download
 Quick start
 Copyright and license
-Demo
 
 For a demo, check out http://arobportfolio.esy.es/!
 
@@ -28,12 +27,12 @@ Within the download you'll find the following directories and files:
 
 Download Here.
 
-
 ├── entertainment_center.py
 ├── fresh_tomatoes.html
 ├── fresh_tomatoes.py
 ├── media.py
 └── README.md
+
 Copyright and License
 
 Project starter code (supplied without rights information) contributed by Udacity.
