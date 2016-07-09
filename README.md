@@ -4,7 +4,7 @@ This is a portfolio project for Udacity's full-stack nanodegree program. Using h
 
 For a demo, check out http://arobportfolio.esy.es/!
 
-The files for the project may be downloaded at https://github.com/anthonyrobinsonjr/Udacity-Porfolio/blob/master/My%20Portfolio.zip.
+The files for the project may be downloaded at https://github.com/anthonyrobinsonjr/Udacity-Porfolio/blob/master/My%20Portfolio.zip
 
 Copyright and License
 
