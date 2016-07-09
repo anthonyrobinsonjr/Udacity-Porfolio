@@ -6,6 +6,7 @@ For a demo, check out http://arobportfolio.esy.es/!
 
 The html file for the project may be viewed at https://github.com/anthonyrobinsonjr/Udacity-Porfolio/blob/master/index.html
 The css file may be viewed at https://github.com/anthonyrobinsonjr/Udacity-Porfolio/blob/master/style.css
+JS and Image files can be downloaded at their respective pages.
 
 Copyright and License
 
