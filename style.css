@@ -4,6 +4,12 @@ logo {
     max-width: 100%;
 }
 
+body {
+    background-image: url(http://gdj.gdj.netdna-cdn.com/wp-content/uploads/2012/08/minimal-background-pattern-wordpress-4.jpg);
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
 h2 {
     padding-top: 1%;
     padding-bottom: 4%;
